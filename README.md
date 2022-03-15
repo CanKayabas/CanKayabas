@@ -37,7 +37,7 @@
 
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
-[github]: https://github.com/IbrahimTalha0
+[github]: https://github.com/CanKayabas
 
 <br />
 <br />
