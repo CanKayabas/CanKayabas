@@ -14,9 +14,9 @@
 
 ### 📩 Connect with me:
 
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg" />][discord]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" height="24" width="24" src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" />][discord]
+[<img align="left" height="24" width="24" src="https://seeklogo.com/images/I/instagram-logo-1494D6FE63-seeklogo.com.png" />][instagram]
+[<img align="left" height="24" width="24" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" />][gmail]
 
 
 <br />
@@ -30,8 +30,8 @@
 ### 🔧 Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="Git" width="26px" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://seeklogo.com/images/G/github-logo-45146A3FBE-seeklogo.com.png" />][github]
 
 <br />
 
