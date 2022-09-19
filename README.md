@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Can (Erebos) Kayabaş</h1>
 <h3 align="center">Im Front-end Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cankayabas&label=Profile%20views&color=0e75b6&style=flat" alt="cankayabas" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cankayabas" alt="cankayabas" /></a> </p>
-
-- 🔭 I’m currently working on [Vixay](vixay.xyz)
-
-- 💬 Ask me about **html, css, js, c#, c++**
-
-- 📫 How to reach me **kayabascannn@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cankayabas&label=Profile%20views&color=ff6600&style=flat-square" alt="cankayabas" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,8 +15,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/kayabascann"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/kayabascann" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cankayabas&show_icons=true&locale=en&layout=compact" alt="cankayabas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cankayabas&show_icons=true&theme=dark&locale=en&layout=compact" alt="cankayabas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cankayabas&show_icons=true&locale=en" alt="cankayabas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cankayabas&show_icons=true&theme=dark&title_color=ff4d00&text_color=000000&bg_color=ffffff&locale=en" alt="cankayabas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cankayabas&" alt="cankayabas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cankayabas&theme=dark" alt="cankayabas" /></p>
