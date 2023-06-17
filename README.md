@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Front-end Developer<br>I'm 18 years old.<br>I know HTML5.<br>I know CSS3.<br>I know Tailwind CSS.<br>I know JavaScript.<br>I know NextJs.
+I'm Front-end Developer<br>I'm 18 years old.
 
 
 ## 🌐 Socials:
