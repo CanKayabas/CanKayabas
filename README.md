@@ -9,7 +9,7 @@ Can K.
 
 ## My Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,scss,javascript,nodejs,react,nextjs,typescript,electron,appwrite)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,scss,javascript,nodejs,react,nextjs,typescript,tauri,electron,appwrite)
 
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CanKayabas&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
